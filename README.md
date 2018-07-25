@@ -9,4 +9,4 @@ The Scripting Layer for Android, SL4A, is an open source application that allows
 <h3><b>Installing and running the scripts</b></h3>
 Once the scripting layer is installed you need to download the git files and save it in the home directory<code><b>/sdcard/sl4a/scripts</b></code> and run the scripts.
 <h3><b>license</h3></b>
-These projects sre licensed under the Apache license v2.0.see the LICENSE.MD files for more details pertaining the use of the scripts.
+These projects sre licensed under the Apache license v2.0.see the LICENSE.md files for more details pertaining the use of the scripts.
