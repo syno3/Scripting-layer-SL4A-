@@ -1,5 +1,4 @@
 # Scripting-layer-SL4A-
-
 <h3><b>Getting started</b></h3>
 The Scripting Layer for Android, SL4A, is an open source application that allows programs written in a range of interpreted languages to run on Android.It provides userswith high level API that allows the scripts to interact with the android device.It runs on any android without any root permission required.
 <br>
